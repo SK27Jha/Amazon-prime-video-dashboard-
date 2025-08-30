@@ -63,6 +63,4 @@ Build a recommendation system for personalized content.
 
 Deploy interactive dashboard (using Streamlit / Power BI / Tableau).
 
-Video of Dahboard
 
-"C:\Users\ASUS\Videos\Recording 2025-05-12 161642.mp4"
