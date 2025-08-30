@@ -44,13 +44,17 @@ pip install -r requirements.txt
 📊 Technologies Used
 
 Python (pandas, numpy)
+
 Jupyter Notebook
+
 Data Visualization Tools
 
 📈 Key Insights (example — update after your analysis)
 
 Peak streaming hours observed between 9 PM – 1 AM.
+
 Younger age groups engage more with original series than movies.
+
 Certain genres dominate watch-time in specific regions.
 
 🚀 Future Work
