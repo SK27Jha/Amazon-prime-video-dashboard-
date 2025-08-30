@@ -28,26 +28,32 @@ Amazon-Prime-Video-Users/
 ⚙️ Installation & Setup
 
 Clone this repository
+
 git clone https://github.com/your-username/Amazon-Prime-Video-Users.git
 cd Amazon-Prime-Video-Users
 
 Create a virtual environment
+
 python -m venv env
 env\Scripts\activate      # For Windows  
 
 Install dependencies
+
 pip install -r requirements.txt
 
 📊 Technologies Used
+
 Python (pandas, numpy)
 Jupyter Notebook
 Data Visualization Tools
 
 📈 Key Insights (example — update after your analysis)
+
 Peak streaming hours observed between 9 PM – 1 AM.
 Younger age groups engage more with original series than movies.
 Certain genres dominate watch-time in specific regions.
 
 🚀 Future Work
+
 Build a recommendation system for personalized content.
 Deploy interactive dashboard (using Streamlit / Power BI / Tableau).
