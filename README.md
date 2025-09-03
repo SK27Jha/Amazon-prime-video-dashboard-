@@ -1,67 +1,78 @@
 # Amazon Prime Video Users Analysis
 
-#📌Project Overview
 
-This project focuses on analyzing Amazon Prime Video users dataset to derive insights about streaming patterns, user preferences, and platform engagement. The goal is to explore data, clean and preprocess it, and apply analytical or machine learning techniques to generate meaningful findings.
-
-#🎯 Objectives
-
-Perform data cleaning and handle missing values.
-
-Conduct exploratory data analysis (EDA) to identify trends and patterns.
-
-Visualize insights using Python libraries.
+https://github.com/user-attachments/assets/45140311-a4d5-4a20-b4bb-c4b456d818d5
 
 
-#📂 Project Structure
+📊 Amazon Prime Video Data Analysis Dashboard
 
-Amazon-Prime-Video-Users/
-│── data/              # Raw and processed dataset  
-│── notebooks/         # Jupyter notebooks for analysis  
-│── scripts/           # Python scripts for preprocessing, modeling  
-│── outputs/           # Visualizations, reports  
-│── README.md          # Project documentation  
-│── requirements.txt   # Dependencies  
+📌 Project Overview
 
+This project presents an interactive Power BI dashboard that provides insights into the content available on Amazon Prime Video.
+The dataset contains information about movies and TV shows, including their ratings, genres, release years, countries, and types.
 
-#⚙️ Installation & Setup
+The dashboard allows users to explore patterns and trends in the streaming platform’s catalog and better understand its global content distribution.
 
-#Clone this repository
+⚡ Key Highlights of the Dashboard
+🔹 KPIs Summary
 
-git clone https://github.com/your-username/Amazon-Prime-Video-Users.git
-cd Amazon-Prime-Video-Users
+Total Titles: 9,655
 
-#Create a virtual environment
+Total Ratings: 25
 
-python -m venv env
-env\Scripts\activate      # For Windows  
+Total Genres: 519
 
-#Install dependencies
+Total Directors: 5,771
 
-pip install -r requirements.txt
+Timeline: 1920 – 2021
 
-#📊 Technologies Used
+🔹 Rating by Total Shows
 
-Python (pandas, numpy)
+Most shows are rated 13+ (2.12K) followed by 16+ (1.55K) and R (1.01K).
 
-Jupyter Notebook
+The majority of content targets teen and adult audiences.
 
-Data Visualization Tools : Power Bi
+🔹 Genre Analysis
 
-#📈 Key Insights (example — update after your analysis)
+Drama (0.99K) and Comedy (0.54K) dominate the catalog.
 
-Peak streaming hours observed between 9 PM – 1 AM.
+Popular combinations:
 
-Younger age groups engage more with original series than movies.
+Drama, Suspense
 
-Certain genres dominate watch-time in specific regions.
+Comedy, Drama
 
-#🚀 Future Work
+Animation, Kids
 
-Build a recommendation system for personalized content.
+🔹 Global Distribution
 
-Deploy interactive dashboard (using Streamlit / Power BI / Tableau).
+Content is spread across North America, Europe, Asia, and Australia.
 
+The US and India have significant contributions to Prime Video’s content.
 
-"C:\Users\ASUS\Videos\Recording 2025-05-12 161642.mp4"
+🔹 Movies vs TV Shows
+
+Movies: 7,810+ (80.8%)
+
+TV Shows: 1,850+ (19.1%)
+
+Prime Video’s catalog is movie-heavy compared to TV shows.
+
+🔹 Release Year Trend
+
+Content growth surged after 2000, with a sharp rise after 2010.
+
+Reflects the streaming boom era.
+
+🛠️ Tech Stack
+
+Data Visualization: Power BI
+
+Dataset Source: Amazon Prime Video Dataset (publicly available on Kaggle/other open sources)
+
+Data Cleaning & Processing: Power Query (in Power BI)
+
+Visualization Tools: Custom charts, maps, filters
+
+📂 Project Structure
 
