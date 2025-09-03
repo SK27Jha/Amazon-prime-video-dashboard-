@@ -1,10 +1,8 @@
-# Amazon Prime Video Users Analysis
+# 📊 Amazon Prime Video Data Analysis Dashboard
 
 
-https://github.com/user-attachments/assets/45140311-a4d5-4a20-b4bb-c4b456d818d5
+https://github.com/user-attachments/assets/6b4545bc-dd9d-4725-9e44-b2c54351fab4
 
-
-📊 Amazon Prime Video Data Analysis Dashboard
 
 📌 Project Overview
 
@@ -74,5 +72,4 @@ Data Cleaning & Processing: Power Query (in Power BI)
 
 Visualization Tools: Custom charts, maps, filters
 
-📂 Project Structure
 
